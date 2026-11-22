@@ -116,3 +116,17 @@ Listing in xAI's official catalog (`xai-org/plugin-marketplace`) is a post-merge
 ## Beta channel
 
 Experimental changes get tested on `mvanhorn/last30days-skill-private`, which installs as a parallel `/last30days-beta` slash command. Beta-only changes never ship to public without a review PR here. Workflow guide (and the plan that established this setup) lives at `BETA.md` in the private repo.
+
+## Agent skills
+
+### Issue tracker
+
+GitHub issues in this repo. See `docs/agents/issue-tracker.md`.
+
+### Triage labels
+
+Default five roles, label names equal the role names. See `docs/agents/triage-labels.md`.
+
+### Domain docs
+
+Single-context. See `docs/agents/domain.md`.
